@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "446319384036",
+    "project_id": "elebladev",
+    "storage_bucket": "elebladev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446319384036:android:2f1a6f23bc4e53db3b23f1",
+        "android_client_info": {
+          "package_name": "com.example.elebladevstudy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446319384036-tu21sjb6mrajlmbdu6a1tpu9q3q1fkfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GKTY-8V5TX_V6s06XJUSaAQHp4F2fAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446319384036-tu21sjb6mrajlmbdu6a1tpu9q3q1fkfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446319384036-oha7jippamg9fcoojftmro07h3g99ajc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elebladevstudyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
